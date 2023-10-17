@@ -11,11 +11,12 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/button2"
         android:layout_centerVertical="true"
-        android:layout_marginBottom="0dp"
+        android:layout_marginBottom="20dp"
         android:text="Take Picture"
         android:textAllCaps="false"
         android:textSize="21sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <Button
         android:layout_width="match_parent"
